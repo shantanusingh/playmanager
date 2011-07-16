@@ -32,7 +32,7 @@ See the Play manual on how to set Play in a more productive environment, like "S
 
 h1. Requirements
 
-Currently Play! Manager only works on Windows. It is tested on Windows 7 (64-bit) and Windows Server 2008. 
+Currently Play! Manager works clean on Windows. It is tested on Windows 7 (64-bit) and Windows Server 2008. It will work under Linux and Mac, but once you close stop Play! Manager, all applications started within Play! Manager will stop also.
 
 h1. Stuff
 
